@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-grid-item.react-draggable-dragging {
+  z-index: 4 !important;
+}

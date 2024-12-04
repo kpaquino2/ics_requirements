@@ -1,0 +1,194 @@
+[
+  {
+    "id": 2,
+    "acronym": "BSABT",
+    "title": "Bachelor of Science in Agricultural Biotechnology",
+    "max_units": 21
+  },
+  {
+    "id": 7,
+    "acronym": "BSAM",
+    "title": "Bachelor of Science in Applied Mathematics",
+    "max_units": 20
+  },
+  {
+    "id": 13,
+    "acronym": "BSMST",
+    "title": "Bachelor of Science in Math and Science Teaching",
+    "max_units": 22
+  },
+  {
+    "id": 6,
+    "acronym": "BASOC",
+    "title": "Bachelor of Arts in Socioloogy",
+    "max_units": 21
+  },
+  {
+    "id": 1,
+    "acronym": "BSA",
+    "title": "Bachelor of Science in Agriculture",
+    "max_units": 21
+  },
+  {
+    "id": 3,
+    "acronym": "BSFST",
+    "title": "Bachelor of Science in Food Science and Technology",
+    "max_units": 21
+  },
+  {
+    "id": 27,
+    "acronym": "BSN",
+    "title": "Bachelor of Science in Nutrition",
+    "max_units": 22
+  },
+  {
+    "id": 19,
+    "acronym": "BSECO",
+    "title": "Bachelor of Science in Economics",
+    "max_units": 18
+  },
+  {
+    "id": 8,
+    "acronym": "BSAP",
+    "title": "Bachelor of Science in Applied Physics",
+    "max_units": 21
+  },
+  {
+    "id": 10,
+    "acronym": "BSCHEM",
+    "title": "Bachelor of Science in Chemistry",
+    "max_units": 22
+  },
+  {
+    "id": 11,
+    "acronym": "BSCS",
+    "title": "Bachelor of Science in Computer Science",
+    "max_units": 20
+  },
+  {
+    "id": 16,
+    "acronym": "BSDC",
+    "title": "Bachelor of Science in Development Communication",
+    "max_units": 19
+  },
+  {
+    "id": 12,
+    "acronym": "BSMATH",
+    "title": "Bachelor of Science in Mathematics",
+    "max_units": 21
+  },
+  {
+    "id": 14,
+    "acronym": "BSSTAT",
+    "title": "Bachelor of Science in Statistics",
+    "max_units": 21
+  },
+  {
+    "id": 20,
+    "acronym": "BSABE",
+    "title": "Bachelor of Science in Agricultural and Biosystems Engineering",
+    "max_units": 21
+  },
+  {
+    "id": 173,
+    "acronym": "BSAcc",
+    "title": "Bachelor of Science in Accountancy",
+    "max_units": 18
+  },
+  {
+    "id": 18,
+    "acronym": "BSABME",
+    "title": "Bachelor of Science in Agribusiness Management and Entrepreneuship",
+    "max_units": 18
+  },
+  {
+    "id": 174,
+    "acronym": "AAEntrep",
+    "title": "Associate in Arts (Entrepreneurship)",
+    "max_units": 18
+  },
+  {
+    "id": 23,
+    "acronym": "BSEE",
+    "title": "Bachelor of Science in Electrical Engineering",
+    "max_units": 21
+  },
+  {
+    "id": 26,
+    "acronym": "BSHE",
+    "title": "Bachelor of Science in Human Ecology",
+    "max_units": 21
+  },
+  {
+    "id": 29,
+    "acronym": "BSME",
+    "title": "Bachelor of Science in Mechanical Engineering",
+    "max_units": 22
+  },
+  {
+    "id": 28,
+    "acronym": "DVM",
+    "title": "Doctor of Veterinary Medicine",
+    "max_units": 21
+  },
+  {
+    "id": 4,
+    "acronym": "BACA",
+    "title": "Bachelor of Arts in Communication Arts",
+    "max_units": 18
+  },
+  {
+    "id": 5,
+    "acronym": "BAPHLO",
+    "title": "Bachelor of Arts in Philosophy",
+    "max_units": 18
+  },
+  {
+    "id": 15,
+    "acronym": "BSAC",
+    "title": "Bachelor of Science in Agricultural Chemistry",
+    "max_units": 21
+  },
+  {
+    "id": 9,
+    "acronym": "BSBIO",
+    "title": "Bachelor of Science in Biology",
+    "max_units": 21
+  },
+  {
+    "id": 22,
+    "acronym": "BSCE",
+    "title": "Bachelor of Science in Civil Engineering",
+    "max_units": 21
+  },
+  {
+    "id": 21,
+    "acronym": "BSCHE",
+    "title": "Bachelor of Science in Chemical Engineering",
+    "max_units": 21
+  },
+  {
+    "id": 24,
+    "acronym": "BSIE",
+    "title": "Bachelor of Science in Industrial Engineering",
+    "max_units": 21
+  },
+  {
+    "id": 17,
+    "acronym": "BSAAE",
+    "title": "Bachelor of Science in Agricultural and Applied Economics",
+    "max_units": 18
+  },
+  {
+    "id": 30,
+    "acronym": "CIF",
+    "title": "Certificate in Forestry",
+    "max_units": 20
+  },
+  {
+    "id": 25,
+    "acronym": "BSF",
+    "title": "Bachelor of Science in Forestry",
+    "max_units": 20
+  }
+]
